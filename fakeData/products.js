@@ -9,7 +9,8 @@ export default [
             productPrice: "60",
             productRating: 4.5,
             numOfReviews: 10,
-            status: "In stock"
+            status: "In stock",
+            countInStock: 10
         },
 
         {
@@ -21,7 +22,8 @@ export default [
             productPrice: "60",
             productRating: 4.5,
             numOfReviews: 10,
-            status: "Out of stock"
+            status: "Out of stock",
+            countInStock: 8
         },
 
         {
@@ -32,7 +34,8 @@ export default [
             productBrand: "Nike",
             productPrice: "60",
             productRating: 4.5,
-            numOfReviews: 10
+            numOfReviews: 10,
+            countInStock: 0
         },
 
         {
@@ -43,7 +46,8 @@ export default [
             productBrand: "Nike",
             productPrice: "60",
             productRating: 4.5,
-            numOfReviews: 10
+            numOfReviews: 10,
+            countInStock: 15
         },
 
         {
@@ -54,7 +58,8 @@ export default [
             productBrand: "Nike",
             productPrice: "60",
             productRating: 4.5,
-            numOfReviews: 10
+            numOfReviews: 10,
+            countInStock: 5
         },
 
         {
@@ -65,7 +70,8 @@ export default [
             productBrand: "Nike",
             productPrice: "60",
             productRating: 4.5,
-            numOfReviews: 10
+            numOfReviews: 10,
+            countInStock: 18
         }
 ]
 
